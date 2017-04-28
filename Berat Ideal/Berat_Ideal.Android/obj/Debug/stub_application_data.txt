@@ -1,0 +1,2 @@
+android.app.Application
+Berat_Ideal.Android

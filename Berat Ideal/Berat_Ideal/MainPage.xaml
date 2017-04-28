@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Berat_Ideal"
+             x:Class="Berat_Ideal.MainPage">
+
+    <StackLayout Padding="10">
+        <Label Text="Tinggi Badan" FontSize="Medium"/>
+        <Entry x:Name="txtTinggiBadan" Placeholder="Masukkan Tinggi Badan (Cm)"></Entry>
+
+        <Label Text="Berat Badan" FontSize="Medium"/>
+        <Entry x:Name="txtBeratBadan" Placeholder="Masukkan Berat Badan (Kg)"></Entry>
+
+        <Button x:Name="btnHitungLaki" Clicked="btnHitungLaki_Clicked" Text="HITUNG BERAT IDEAL LAKI-LAKI"></Button>
+        <Button x:Name="btnHitungPerempuan" Clicked="btnHitungPerempuan_Clicked" Text="HITUNG BERAT IDEAL PEREMPUAN"></Button>
+
+        <Label Text="Berat Badan Ideal(Brocha) : " FontSize="Medium"/>
+        <Entry x:Name="txtBeratBrocha" IsEnabled="False"></Entry>
+
+        <Label Text="Nilai BMI : " FontSize="Medium"/>
+        <Entry x:Name="txtBeratBMI" IsEnabled="False"></Entry>
+
+        <Label Text="Kesimpulan : " FontSize="Medium"/>
+        <Entry x:Name="txtKesimpulan" IsEnabled="False"></Entry>
+    </StackLayout>
+    
+</ContentPage>

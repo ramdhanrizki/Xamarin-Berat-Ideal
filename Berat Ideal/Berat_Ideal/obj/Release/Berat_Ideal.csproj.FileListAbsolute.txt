@@ -1,0 +1,17 @@
+E:\DEVELOPMENT\Riset\Xamarin\Dicoding\Berat Ideal\Berat Ideal\Berat_Ideal\bin\Release\Berat_Ideal.dll
+E:\DEVELOPMENT\Riset\Xamarin\Dicoding\Berat Ideal\Berat Ideal\Berat_Ideal\bin\Release\Berat_Ideal.pdb
+E:\DEVELOPMENT\Riset\Xamarin\Dicoding\Berat Ideal\Berat Ideal\Berat_Ideal\bin\Release\Xamarin.Forms.Core.dll
+E:\DEVELOPMENT\Riset\Xamarin\Dicoding\Berat Ideal\Berat Ideal\Berat_Ideal\bin\Release\Xamarin.Forms.Platform.dll
+E:\DEVELOPMENT\Riset\Xamarin\Dicoding\Berat Ideal\Berat Ideal\Berat_Ideal\bin\Release\Xamarin.Forms.Xaml.dll
+E:\DEVELOPMENT\Riset\Xamarin\Dicoding\Berat Ideal\Berat Ideal\Berat_Ideal\bin\Release\Xamarin.Forms.Core.pdb
+E:\DEVELOPMENT\Riset\Xamarin\Dicoding\Berat Ideal\Berat Ideal\Berat_Ideal\bin\Release\Xamarin.Forms.Core.xml
+E:\DEVELOPMENT\Riset\Xamarin\Dicoding\Berat Ideal\Berat Ideal\Berat_Ideal\bin\Release\Xamarin.Forms.Platform.pdb
+E:\DEVELOPMENT\Riset\Xamarin\Dicoding\Berat Ideal\Berat Ideal\Berat_Ideal\bin\Release\Xamarin.Forms.Xaml.pdb
+E:\DEVELOPMENT\Riset\Xamarin\Dicoding\Berat Ideal\Berat Ideal\Berat_Ideal\bin\Release\Xamarin.Forms.Xaml.xml
+E:\DEVELOPMENT\Riset\Xamarin\Dicoding\Berat Ideal\Berat Ideal\Berat_Ideal\obj\Release\Berat_Ideal.MainPage.xaml.g.cs
+E:\DEVELOPMENT\Riset\Xamarin\Dicoding\Berat Ideal\Berat Ideal\Berat_Ideal\obj\Release\Berat_Ideal.App.xaml.g.cs
+E:\DEVELOPMENT\Riset\Xamarin\Dicoding\Berat Ideal\Berat Ideal\Berat_Ideal\obj\Release\Berat_Ideal.dll
+E:\DEVELOPMENT\Riset\Xamarin\Dicoding\Berat Ideal\Berat Ideal\Berat_Ideal\obj\Release\Berat_Ideal.pdb
+E:\DEVELOPMENT\Riset\Xamarin\Dicoding\Berat Ideal\Berat Ideal\Berat_Ideal\obj\Release\Berat_Ideal.csprojResolveAssemblyReference.cache
+E:\DEVELOPMENT\Riset\Xamarin\Dicoding\Berat Ideal\Berat Ideal\Berat_Ideal\obj\Release\Berat_Ideal.dll.mdb
+E:\DEVELOPMENT\Riset\Xamarin\Dicoding\Berat Ideal\Berat Ideal\Berat_Ideal\bin\Release\Berat_Ideal.dll.mdb
